@@ -29,11 +29,11 @@ with open('Inventory.csv', 'r') as file:
         # split into min and max
         width = width.split("-")
         
-        minW = float(width[0])*conversion
+        minW = int(float(width[0])*conversion)
 
         # if there isn't a max, just keep it the same as min
         try:
-            maxW = float(width[1])*conversion
+            maxW = int(float(width[1])*conversion)
         except:
             maxW = minW
 
