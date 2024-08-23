@@ -44,15 +44,6 @@ def genPlant(dwg, name, minW, maxW, heightRange, height):
     # Add the symbol to the defs section of the drawing
     dwg.defs.add(symbol)
 
-    # Create a group
-    group = dwg.g(id=name.replace(" ", "_"))
-
-    # Use the symbol within the group
-    group.add(dwg.use(symbol))
-
-    # Add the symbol to the drawing
-    dwg.add(group)
-
     # Save the SVG file
     dwg.save(pretty=True)
 
