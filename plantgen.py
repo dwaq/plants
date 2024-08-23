@@ -1,11 +1,12 @@
 import svgwrite
 
+# dwg = SVG symbols library
 # name = name of plant
 # minW = minimum width (diameter) of plant in inches
 # minW = maximum width (diameter) of plant in inches
 # heightRange = text (low, med, high) for height color coding
 # height = text description of plant height (feet)
-def genPlant(name, minW, maxW, heightRange, height):
+def genPlant(dwg, name, minW, maxW, heightRange, height):
     # define a font size and stroke width based on max size
     fontsize = maxW/10
     strokewidth = fontsize/30
@@ -24,12 +25,6 @@ def genPlant(name, minW, maxW, heightRange, height):
     if (heightRange == "high"):
         maxC = "lightblue"
         minC = "blue"
-
-    # Create an SVG drawing
-    dwg = svgwrite.Drawing('plants/'+name+'.svg', size=(str(maxW)+'in', str(maxW)+'in'))
-
-    # Set the viewBox attribute
-    dwg.viewbox(minx=0, miny=0, width=maxW, height=maxW)
 
     # Add a title to the SVG
     dwg.set_desc(title=name)
@@ -55,5 +50,8 @@ def genPlant(name, minW, maxW, heightRange, height):
     # Save the SVG file
     dwg.save()
 
-
-genPlant("Aromatic Aster", 12, 24, "low", "1\' - 2\'")
+# Create an SVG drawing
+dwg = svgwrite.Drawing('plants/Aromatic Aster.svg', size=(str(24)+'in', str(24)+'in'))
+# Set the viewBox attribute
+dwg.viewbox(minx=0, miny=0, width=24, height=24)
+genPlant(dwg, "Aromatic Aster", 12, 24, "low", "1\' - 2\'")
