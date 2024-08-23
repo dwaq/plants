@@ -26,7 +26,7 @@ def genPlant(name, minW, maxW, heightRange, height):
         minC = "blue"
 
     # Create an SVG drawing
-    dwg = svgwrite.Drawing(name+'.svg', size=(str(maxW)+'in', str(maxW)+'in'))
+    dwg = svgwrite.Drawing('plants/'+name+'.svg', size=(str(maxW)+'in', str(maxW)+'in'))
 
     # Set the viewBox attribute
     dwg.viewbox(minx=0, miny=0, width=maxW, height=maxW)
