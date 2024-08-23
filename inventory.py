@@ -29,5 +29,5 @@ with open('Inventory.csv', 'r') as file:
         plantgen.genPlant(name, minW, maxW, heightRange, height)
 
         # exit after 1st row (testing)
-        if r==1:
-            exit()
+        # if r==2:
+        #     exit()
