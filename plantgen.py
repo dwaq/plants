@@ -7,7 +7,7 @@ import svgwrite
 # height = text description of plant height (feet)
 def genPlant(name, minW, maxW, heightRange, height):
     # define a font size and stroke width based on max size
-    fontsize = maxW/7
+    fontsize = maxW/10
     strokewidth = fontsize/30
 
     # calculate radius here since they are needed
