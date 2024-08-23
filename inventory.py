@@ -23,7 +23,7 @@ with open('Inventory.csv', 'r') as file:
             # remove unit
             width = width.strip('"')
         # convert to inches
-        # else:
+        else:
             conversion = 12
 
         # split into min and max
@@ -54,5 +54,5 @@ with open('Inventory.csv', 'r') as file:
         plantgen.genPlant(name, minW, maxW, heightRange, height)
 
         # exit after 1st row (testing)
-        # if r==2:
+        # if r==1:
         #     exit()
