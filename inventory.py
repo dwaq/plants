@@ -1,4 +1,5 @@
 import csv
+import plantgen
 
 # Open the CSV file
 with open('Inventory.csv', 'r') as file:
@@ -22,7 +23,7 @@ with open('Inventory.csv', 'r') as file:
         height = row[4]
 
 
-        print(name, minW, maxW, heightRange, height)
+        plantgen.genPlant(name, minW, maxW, heightRange, height)
 
         # exit after 1st row (testing)
         if r==1:
