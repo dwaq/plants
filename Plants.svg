@@ -1,1063 +1,256 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="1000in"
-   height="1000in"
-   viewBox="0 0 25400 25400"
-   version="1.1"
-   id="svg1"
-   sodipodi:docname="Plants.svg"
-   xml:space="preserve"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="false"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="in"
-     inkscape:zoom="0.12929276"
-     inkscape:cx="146.95332"
-     inkscape:cy="3979.3412"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1"
-     borderlayer="false"
-     showborder="false" /><defs
-     id="defs1"><symbol
-       id="Yellow_Coneflower"><g
-         id="Yellow_Coneflower_transform"
-         transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)"><circle
-           cx="12"
-           cy="12"
-           fill="#ffc0cb"
-           r="12"
-           id="circle1-36" /><circle
-           cx="12"
-           cy="12"
-           fill="#ff0000"
-           r="9"
-           id="circle2-88" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="12"
-           id="text2-422">Yellow Coneflower</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="15.4"
-           id="text3-41">3' - 5'</text></g></symbol><symbol
-       id="Wild_Sweet_William"><g
-         id="Wild_Sweet_William_transform"
-         transform="matrix(25.4,0,0,25.4,-113.5186,900.46735)"><circle
-           cx="6"
-           cy="6"
-           fill="#ffc0cb"
-           r="6"
-           id="circle1-19" /><circle
-           cx="6"
-           cy="6"
-           fill="#ff0000"
-           r="6"
-           id="circle2-5" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.2px"
-           stroke="#000000"
-           stroke-width="0.04"
-           text-anchor="middle"
-           x="6"
-           y="6"
-           id="text2-03">Wild Sweet William</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.2px"
-           stroke="#000000"
-           stroke-width="0.04"
-           text-anchor="middle"
-           x="6"
-           y="8.1999998"
-           id="text3-28">1' - 3'</text></g></symbol><symbol
-       id="Wild_Quinine"><g
-         id="Wild_Quinine_transform"
-         transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)"><circle
-           cx="9"
-           cy="9"
-           fill="#90ee90"
-           r="9"
-           id="circle1-80" /><circle
-           cx="9"
-           cy="9"
-           fill="#008000"
-           r="9"
-           id="circle2-933" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="9"
-           id="text2-32">Wild Quinine</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="11.8"
-           id="text3-996">3' - 5'</text></g></symbol><symbol
-       id="Wild_Petunia"><g
-         id="Wild_Petunia_transform"
-         transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)"><circle
-           cx="12"
-           cy="12"
-           fill="#ffc0cb"
-           r="12"
-           id="circle1-43" /><circle
-           cx="12"
-           cy="12"
-           fill="#ff0000"
-           r="6"
-           id="circle2-89" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="12"
-           id="text2-93">Wild Petunia</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="15.4"
-           id="text3-76">1'</text></g></symbol><symbol
-       id="White_Beardtongue"><g
-         id="White_Beardtongue_transform"
-         transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)"><circle
-           cx="9"
-           cy="9"
-           fill="#ffc0cb"
-           r="9"
-           id="circle1-847" /><circle
-           cx="9"
-           cy="9"
-           fill="#ff0000"
-           r="6"
-           id="circle2-22" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="9"
-           id="text2-73">White Beardtongue</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="11.8"
-           id="text3-5">1' - 4'</text></g></symbol><symbol
-       id="Whirled_Rosinweed"><g
-         id="Whirled_Rosinweed_transform"
-         transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)"><circle
-           cx="18"
-           cy="18"
-           fill="#90ee90"
-           r="18"
-           id="circle1-830" /><circle
-           cx="18"
-           cy="18"
-           fill="#008000"
-           r="12"
-           id="circle2-34" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="18"
-           id="text2-603">Whirled Rosinweed</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="22.6"
-           id="text3-99">3' - 7'</text></g></symbol><symbol
-       id="Whirled_Coreopsis"><g
-         id="Whirled_Coreopsis_transform"
-         transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)"><circle
-           cx="12"
-           cy="12"
-           fill="#ffc0cb"
-           r="12"
-           id="circle1-32" /><circle
-           cx="12"
-           cy="12"
-           fill="#ff0000"
-           r="6"
-           id="circle2-63" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="12"
-           id="text2-698">Whirled Coreopsis</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="15.4"
-           id="text3-206">2' - 3'</text></g></symbol><symbol
-       id="Thin_Leaved_Sunflower"><g
-         id="Thin_Leaved_Sunflower_transform"
-         transform="matrix(25.4,0,0,25.4,-420.01526,595.66735)"><circle
-           cx="18"
-           cy="18"
-           fill="#ffc0cb"
-           r="18"
-           id="circle1-48" /><circle
-           cx="18"
-           cy="18"
-           fill="#ff0000"
-           r="12"
-           id="circle2-423" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="18"
-           id="text2-42">Thin Leaved Sunflower</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="22.6"
-           id="text3-20">2' - 5'</text></g></symbol><symbol
-       id="Tall_Sunflower"><g
-         id="Tall_Sunflower_transform"
-         transform="matrix(25.4,0,0,25.4,-570.7186,443.26735)"><circle
-           cx="24"
-           cy="24"
-           fill="#add8e6"
-           r="24"
-           id="circle1-57" /><circle
-           cx="24"
-           cy="24"
-           fill="#0000ff"
-           r="18"
-           id="circle2-42" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="4.8px"
-           stroke="#000000"
-           stroke-width="0.16"
-           text-anchor="middle"
-           x="24"
-           y="24"
-           id="text2-68">Tall Sunflower</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="4.8px"
-           stroke="#000000"
-           stroke-width="0.16"
-           text-anchor="middle"
-           x="24"
-           y="29.799999"
-           id="text3-34">5' - 10'</text></g></symbol><symbol
-       id="Summer_Phlox"><g
-         id="Summer_Phlox_transform"
-         transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)"><circle
-           cx="9"
-           cy="9"
-           fill="#90ee90"
-           r="9"
-           id="circle1-611" /><circle
-           cx="9"
-           cy="9"
-           fill="#008000"
-           r="9"
-           id="circle2-92" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="9"
-           id="text2-44">Summer Phlox</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="11.8"
-           id="text3-75">3' - 5'</text></g></symbol><symbol
-       id="Spiderwort"><g
-         id="Spiderwort_transform"
-         transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)"><circle
-           cx="9"
-           cy="9"
-           fill="#ffc0cb"
-           r="9"
-           id="circle1-837" /><circle
-           cx="9"
-           cy="9"
-           fill="#ff0000"
-           r="6"
-           id="circle2-969" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="9"
-           id="text2-372">Spiderwort</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="11.8"
-           id="text3-70">2' - 3'</text></g></symbol><symbol
-       id="Round_Leaf_Ragwort"><g
-         id="Round_Leaf_Ragwort_transform"
-         transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)"><circle
-           cx="12"
-           cy="12"
-           fill="#ffc0cb"
-           r="12"
-           id="circle1-61" /><circle
-           cx="12"
-           cy="12"
-           fill="#ff0000"
-           r="6"
-           id="circle2-32" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="12"
-           id="text2-16">Round Leaf Ragwort</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="15.4"
-           id="text3-437">1' - 2'</text></g></symbol><symbol
-       id="Purple_Coneflower"><g
-         id="Purple_Coneflower_transform"
-         transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)"><circle
-           cx="12"
-           cy="12"
-           fill="#ffc0cb"
-           r="12"
-           id="circle1-6" /><circle
-           cx="12"
-           cy="12"
-           fill="#ff0000"
-           r="6"
-           id="circle2-46" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="12"
-           id="text2-75">Purple Coneflower</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="15.4"
-           id="text3-48">2' - 5'</text></g></symbol><symbol
-       id="Pink_Muhly_Grass"><g
-         id="Pink_Muhly_Grass_transform"
-         transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)"><circle
-           cx="18"
-           cy="18"
-           fill="#ffc0cb"
-           r="18"
-           id="circle1-59" /><circle
-           cx="18"
-           cy="18"
-           fill="#ff0000"
-           r="12"
-           id="circle2-30" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="18"
-           id="text2-4">Pink Muhly Grass</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="22.6"
-           id="text3-63">2' - 3'</text></g></symbol><symbol
-       id="NE_Aster"><g
-         id="NE_Aster_transform"
-         transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)"><circle
-           cx="18"
-           cy="18"
-           fill="#90ee90"
-           r="18"
-           id="circle1-51" /><circle
-           cx="18"
-           cy="18"
-           fill="#008000"
-           r="12"
-           id="circle2-35" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="18"
-           id="text2-69">NE Aster</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="22.6"
-           id="text3-439">4' - 6'</text></g></symbol><symbol
-       id="Lanceleaf_Coreopsis"><g
-         id="Lanceleaf_Coreopsis_transform"
-         transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)"><circle
-           cx="9"
-           cy="9"
-           fill="#ffc0cb"
-           r="9"
-           id="circle1-78" /><circle
-           cx="9"
-           cy="9"
-           fill="#ff0000"
-           r="6"
-           id="circle2-60" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="9"
-           id="text2-14">Lanceleaf Coreopsis</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="11.8"
-           id="text3-33">2'</text></g></symbol><symbol
-       id="Iron_Weed"><g
-         id="Iron_Weed_transform"
-         transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)"><circle
-           cx="18"
-           cy="18"
-           fill="#90ee90"
-           r="18"
-           id="circle1-17" /><circle
-           cx="18"
-           cy="18"
-           fill="#008000"
-           r="12"
-           id="circle2-24" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="18"
-           id="text2-37">Iron Weed</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="22.6"
-           id="text3-98">4' - 6'</text></g></symbol><symbol
-       id="Helen's_Flower"><g
-         id="Helen's_Flower_transform"
-         transform="matrix(25.4,0,0,25.4,-570.7186,443.26735)"><circle
-           cx="24"
-           cy="24"
-           fill="#90ee90"
-           r="24"
-           id="circle1-903" /><circle
-           cx="24"
-           cy="24"
-           fill="#008000"
-           r="18"
-           id="circle2-8" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="4.8px"
-           stroke="#000000"
-           stroke-width="0.16"
-           text-anchor="middle"
-           x="24"
-           y="24"
-           id="text2-60">Helen's Flower</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="4.8px"
-           stroke="#000000"
-           stroke-width="0.16"
-           text-anchor="middle"
-           x="24"
-           y="29.799999"
-           id="text3-43">4' - 6'</text></g></symbol><symbol
-       id="Green_Headed_cone"><g
-         id="Green_Headed_cone_transform"
-         transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)"><circle
-           cx="18"
-           cy="18"
-           fill="#add8e6"
-           r="18"
-           id="circle1-7" /><circle
-           cx="18"
-           cy="18"
-           fill="#0000ff"
-           r="12"
-           id="circle2-0" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="18"
-           id="text2-34">Green Headed cone</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="22.6"
-           id="text3-27">6' - 10'</text></g></symbol><symbol
-       id="Foxglove_Beardtonue"><g
-         id="Foxglove_Beardtonue_transform"
-         transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)"><circle
-           cx="12"
-           cy="12"
-           fill="#ffc0cb"
-           r="12"
-           id="circle1-5" /><circle
-           cx="12"
-           cy="12"
-           fill="#ff0000"
-           r="6"
-           id="circle2-39" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="12"
-           id="text2-78">Foxglove Beardtonue</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="15.4"
-           id="text3-77">3' - 4'</text></g></symbol><symbol
-       id="Downy_Wood_Mint"><g
-         id="Downy_Wood_Mint_transform"
-         transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)"><circle
-           cx="9"
-           cy="9"
-           fill="#ffc0cb"
-           r="9"
-           id="circle1-84" /><circle
-           cx="9"
-           cy="9"
-           fill="#ff0000"
-           r="6"
-           id="circle2-68" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="9"
-           id="text2-1">Downy Wood Mint</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="11.8"
-           id="text3-3">1' - 2'</text></g></symbol><symbol
-       id="Culver's_Root"><g
-         id="Culver's_Root_transform"
-         transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)"><circle
-           cx="18"
-           cy="18"
-           fill="#90ee90"
-           r="18"
-           id="circle1-4" /><circle
-           cx="18"
-           cy="18"
-           fill="#008000"
-           r="12"
-           id="circle2-6" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="18"
-           id="text2-5">Culver's Root</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="22.6"
-           id="text3-71">4' - 7'</text></g></symbol><symbol
-       id="Butterfly_Weed"><g
-         id="Butterfly_Weed_transform"
-         transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)"><circle
-           cx="18"
-           cy="18"
-           fill="#ffc0cb"
-           r="18"
-           id="circle1-86" /><circle
-           cx="18"
-           cy="18"
-           fill="#ff0000"
-           r="6"
-           id="circle2-7" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="18"
-           id="text2-62">Butterfly Weed</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="22.6"
-           id="text3-4">1' - 2'</text></g></symbol><symbol
-       id="Blue_false_indigo"><g
-         id="Blue_false_indigo_transform"
-         transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)"><circle
-           cx="18"
-           cy="18"
-           fill="#90ee90"
-           r="18"
-           id="circle1-83" /><circle
-           cx="18"
-           cy="18"
-           fill="#008000"
-           r="18"
-           id="circle2-96" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="18"
-           id="text2-33">Blue false indigo</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="22.6"
-           id="text3-84">4'</text></g></symbol><symbol
-       id="Biennial_Beeblossem"><g
-         id="Biennial_Beeblossem_transform"
-         transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)"><circle
-           cx="12"
-           cy="12"
-           fill="#ffc0cb"
-           r="12"
-           id="circle1-8" /><circle
-           cx="12"
-           cy="12"
-           fill="#ff0000"
-           r="6"
-           id="circle2-93" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="12"
-           id="text2-0">Biennial Beeblossem</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="15.4"
-           id="text3-2">3' - 6'</text></g></symbol><symbol
-       id="BES"><g
-         id="BES_transform"
-         transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)"><circle
-           cx="12"
-           cy="12"
-           fill="#ffc0cb"
-           r="12"
-           id="circle1-1" /><circle
-           cx="12"
-           cy="12"
-           fill="#ff0000"
-           r="12"
-           id="circle2-2" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="12"
-           id="text2-31">BES</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="15.4"
-           id="text3-7">1' - 2'</text></g></symbol><symbol
-       id="Blue_eyed_Grass"><g
-         id="Blue_eyed_Grass_transform"
-         transform="matrix(25.4,0,0,25.4,-62.718601,951.26735)"><circle
-           cx="4"
-           cy="4"
-           fill="#ffc0cb"
-           r="4"
-           id="circle1-90" /><circle
-           cx="4"
-           cy="4"
-           fill="#ff0000"
-           r="3"
-           id="circle2-4" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="0.8px"
-           stroke="#000000"
-           stroke-width="0.0266667"
-           text-anchor="middle"
-           x="4"
-           y="4"
-           id="text2-9">Blue eyed Grass</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="0.8px"
-           stroke="#000000"
-           stroke-width="0.0266667"
-           text-anchor="middle"
-           x="4"
-           y="5.8000002"
-           id="text3-6">6' - 10&quot;'</text></g></symbol><symbol
-       id="Bee_Balm"><g
-         id="Bee_Balm_transform"
-         transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)"><circle
-           cx="18"
-           cy="18"
-           fill="#ffc0cb"
-           r="18"
-           id="circle1-9" /><circle
-           cx="18"
-           cy="18"
-           fill="#ff0000"
-           r="12"
-           id="circle2-94" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="18"
-           id="text2-6">Bee Balm</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="3.6px"
-           stroke="#000000"
-           stroke-width="0.12"
-           text-anchor="middle"
-           x="18"
-           y="22.6"
-           id="text3-8">2' - 4'</text></g></symbol><symbol
-       id="Aromatic_Aster"><g
-         id="Aromatic_Aster_transform"
-         transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)"><circle
-           cx="12"
-           cy="12"
-           fill="#ffc0cb"
-           r="12"
-           id="circle1-0" /><circle
-           cx="12"
-           cy="12"
-           fill="#ff0000"
-           r="6"
-           id="circle2-3" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="12"
-           id="text2-7">Aromatic Aster</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="15.4"
-           id="text3-9">1' - 2'</text></g></symbol><symbol
-       id="Anise_Hyssop"><g
-         id="Anise_Hyssop_transform"
-         transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)"><circle
-           cx="9"
-           cy="9"
-           fill="#ffc0cb"
-           r="9"
-           id="circle1-3" /><circle
-           cx="9"
-           cy="9"
-           fill="#ff0000"
-           r="6"
-           id="circle2-9" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="9"
-           id="text2-3">Anise Hyssop</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="1.8px"
-           stroke="#000000"
-           stroke-width="0.06"
-           text-anchor="middle"
-           x="9"
-           y="11.8"
-           id="text3-0">1' - 2'</text></g></symbol><symbol
-       id="3_Lobed_Coneflwer"><g
-         id="3_Lobed_Coneflwer_transform"
-         transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)"><circle
-           cx="12"
-           cy="12"
-           fill="#ffc0cb"
-           r="12"
-           id="circle1" /><circle
-           cx="12"
-           cy="12"
-           fill="#ff0000"
-           r="12"
-           id="circle2" /><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="12"
-           id="text2">3 Lobed Coneflwer</text><text
-           alignment-baseline="middle"
-           fill="#ffffff"
-           font-family="Arial"
-           font-size="2.4px"
-           stroke="#000000"
-           stroke-width="0.08"
-           text-anchor="middle"
-           x="12"
-           y="15.4"
-           id="text3">2' - 5'</text></g></symbol></defs><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1" /></svg>
+<svg width="1000in" height="1000in" viewBox="0 0 25400 25400" version="1.1" id="svg1" sodipodi:docname="Plants.svg" xml:space="preserve" inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:showpageshadow="false" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="in" inkscape:zoom="0.12929276" inkscape:cx="146.95332" inkscape:cy="3979.3412" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg1" borderlayer="false" showborder="false" />
+  <defs id="defs1">
+    <symbol id="Yellow_Coneflower">
+      <g id="Yellow_Coneflower_transform" transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)">
+        <circle cx="12" cy="12" fill="#ffc0cb" r="12" id="circle1-36" />
+        <circle cx="12" cy="12" fill="#ff0000" r="9" id="circle2-88" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="12" id="text2-422">Yellow Coneflower</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="15.4" id="text3-41">3' - 5'</text>
+      </g>
+    </symbol>
+    <symbol id="Wild_Sweet_William">
+      <g id="Wild_Sweet_William_transform" transform="matrix(25.4,0,0,25.4,-113.5186,900.46735)">
+        <circle cx="6" cy="6" fill="#ffc0cb" r="6" id="circle1-19" />
+        <circle cx="6" cy="6" fill="#ff0000" r="6" id="circle2-5" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.2px" stroke="#000000" stroke-width="0.04" text-anchor="middle" x="6" y="6" id="text2-03">Wild Sweet William</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.2px" stroke="#000000" stroke-width="0.04" text-anchor="middle" x="6" y="8.1999998" id="text3-28">1' - 3'</text>
+      </g>
+    </symbol>
+    <symbol id="Wild_Quinine">
+      <g id="Wild_Quinine_transform" transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)">
+        <circle cx="9" cy="9" fill="#90ee90" r="9" id="circle1-80" />
+        <circle cx="9" cy="9" fill="#008000" r="9" id="circle2-933" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="9" id="text2-32">Wild Quinine</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="11.8" id="text3-996">3' - 5'</text>
+      </g>
+    </symbol>
+    <symbol id="Wild_Petunia">
+      <g id="Wild_Petunia_transform" transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)">
+        <circle cx="12" cy="12" fill="#ffc0cb" r="12" id="circle1-43" />
+        <circle cx="12" cy="12" fill="#ff0000" r="6" id="circle2-89" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="12" id="text2-93">Wild Petunia</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="15.4" id="text3-76">1'</text>
+      </g>
+    </symbol>
+    <symbol id="White_Beardtongue">
+      <g id="White_Beardtongue_transform" transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)">
+        <circle cx="9" cy="9" fill="#ffc0cb" r="9" id="circle1-847" />
+        <circle cx="9" cy="9" fill="#ff0000" r="6" id="circle2-22" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="9" id="text2-73">White Beardtongue</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="11.8" id="text3-5">1' - 4'</text>
+      </g>
+    </symbol>
+    <symbol id="Whirled_Rosinweed">
+      <g id="Whirled_Rosinweed_transform" transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)">
+        <circle cx="18" cy="18" fill="#90ee90" r="18" id="circle1-830" />
+        <circle cx="18" cy="18" fill="#008000" r="12" id="circle2-34" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="18" id="text2-603">Whirled Rosinweed</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="22.6" id="text3-99">3' - 7'</text>
+      </g>
+    </symbol>
+    <symbol id="Whirled_Coreopsis">
+      <g id="Whirled_Coreopsis_transform" transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)">
+        <circle cx="12" cy="12" fill="#ffc0cb" r="12" id="circle1-32" />
+        <circle cx="12" cy="12" fill="#ff0000" r="6" id="circle2-63" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="12" id="text2-698">Whirled Coreopsis</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="15.4" id="text3-206">2' - 3'</text>
+      </g>
+    </symbol>
+    <symbol id="Thin_Leaved_Sunflower">
+      <g id="Thin_Leaved_Sunflower_transform" transform="matrix(25.4,0,0,25.4,-420.01526,595.66735)">
+        <circle cx="18" cy="18" fill="#ffc0cb" r="18" id="circle1-48" />
+        <circle cx="18" cy="18" fill="#ff0000" r="12" id="circle2-423" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="18" id="text2-42">Thin Leaved Sunflower</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="22.6" id="text3-20">2' - 5'</text>
+      </g>
+    </symbol>
+    <symbol id="Tall_Sunflower">
+      <g id="Tall_Sunflower_transform" transform="matrix(25.4,0,0,25.4,-570.7186,443.26735)">
+        <circle cx="24" cy="24" fill="#add8e6" r="24" id="circle1-57" />
+        <circle cx="24" cy="24" fill="#0000ff" r="18" id="circle2-42" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="4.8px" stroke="#000000" stroke-width="0.16" text-anchor="middle" x="24" y="24" id="text2-68">Tall Sunflower</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="4.8px" stroke="#000000" stroke-width="0.16" text-anchor="middle" x="24" y="29.799999" id="text3-34">5' - 10'</text>
+      </g>
+    </symbol>
+    <symbol id="Summer_Phlox">
+      <g id="Summer_Phlox_transform" transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)">
+        <circle cx="9" cy="9" fill="#90ee90" r="9" id="circle1-611" />
+        <circle cx="9" cy="9" fill="#008000" r="9" id="circle2-92" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="9" id="text2-44">Summer Phlox</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="11.8" id="text3-75">3' - 5'</text>
+      </g>
+    </symbol>
+    <symbol id="Spiderwort">
+      <g id="Spiderwort_transform" transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)">
+        <circle cx="9" cy="9" fill="#ffc0cb" r="9" id="circle1-837" />
+        <circle cx="9" cy="9" fill="#ff0000" r="6" id="circle2-969" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="9" id="text2-372">Spiderwort</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="11.8" id="text3-70">2' - 3'</text>
+      </g>
+    </symbol>
+    <symbol id="Round_Leaf_Ragwort">
+      <g id="Round_Leaf_Ragwort_transform" transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)">
+        <circle cx="12" cy="12" fill="#ffc0cb" r="12" id="circle1-61" />
+        <circle cx="12" cy="12" fill="#ff0000" r="6" id="circle2-32" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="12" id="text2-16">Round Leaf Ragwort</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="15.4" id="text3-437">1' - 2'</text>
+      </g>
+    </symbol>
+    <symbol id="Purple_Coneflower">
+      <g id="Purple_Coneflower_transform" transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)">
+        <circle cx="12" cy="12" fill="#ffc0cb" r="12" id="circle1-6" />
+        <circle cx="12" cy="12" fill="#ff0000" r="6" id="circle2-46" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="12" id="text2-75">Purple Coneflower</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="15.4" id="text3-48">2' - 5'</text>
+      </g>
+    </symbol>
+    <symbol id="Pink_Muhly_Grass">
+      <g id="Pink_Muhly_Grass_transform" transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)">
+        <circle cx="18" cy="18" fill="#ffc0cb" r="18" id="circle1-59" />
+        <circle cx="18" cy="18" fill="#ff0000" r="12" id="circle2-30" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="18" id="text2-4">Pink Muhly Grass</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="22.6" id="text3-63">2' - 3'</text>
+      </g>
+    </symbol>
+    <symbol id="NE_Aster">
+      <g id="NE_Aster_transform" transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)">
+        <circle cx="18" cy="18" fill="#90ee90" r="18" id="circle1-51" />
+        <circle cx="18" cy="18" fill="#008000" r="12" id="circle2-35" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="18" id="text2-69">NE Aster</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="22.6" id="text3-439">4' - 6'</text>
+      </g>
+    </symbol>
+    <symbol id="Lanceleaf_Coreopsis">
+      <g id="Lanceleaf_Coreopsis_transform" transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)">
+        <circle cx="9" cy="9" fill="#ffc0cb" r="9" id="circle1-78" />
+        <circle cx="9" cy="9" fill="#ff0000" r="6" id="circle2-60" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="9" id="text2-14">Lanceleaf Coreopsis</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="11.8" id="text3-33">2'</text>
+      </g>
+    </symbol>
+    <symbol id="Iron_Weed">
+      <g id="Iron_Weed_transform" transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)">
+        <circle cx="18" cy="18" fill="#90ee90" r="18" id="circle1-17" />
+        <circle cx="18" cy="18" fill="#008000" r="12" id="circle2-24" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="18" id="text2-37">Iron Weed</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="22.6" id="text3-98">4' - 6'</text>
+      </g>
+    </symbol>
+    <symbol id="Helen's_Flower">
+      <g id="Helen's_Flower_transform" transform="matrix(25.4,0,0,25.4,-570.7186,443.26735)">
+        <circle cx="24" cy="24" fill="#90ee90" r="24" id="circle1-903" />
+        <circle cx="24" cy="24" fill="#008000" r="18" id="circle2-8" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="4.8px" stroke="#000000" stroke-width="0.16" text-anchor="middle" x="24" y="24" id="text2-60">Helen's Flower</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="4.8px" stroke="#000000" stroke-width="0.16" text-anchor="middle" x="24" y="29.799999" id="text3-43">4' - 6'</text>
+      </g>
+    </symbol>
+    <symbol id="Green_Headed_cone">
+      <g id="Green_Headed_cone_transform" transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)">
+        <circle cx="18" cy="18" fill="#add8e6" r="18" id="circle1-7" />
+        <circle cx="18" cy="18" fill="#0000ff" r="12" id="circle2-0" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="18" id="text2-34">Green Headed cone</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="22.6" id="text3-27">6' - 10'</text>
+      </g>
+    </symbol>
+    <symbol id="Foxglove_Beardtonue">
+      <g id="Foxglove_Beardtonue_transform" transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)">
+        <circle cx="12" cy="12" fill="#ffc0cb" r="12" id="circle1-5" />
+        <circle cx="12" cy="12" fill="#ff0000" r="6" id="circle2-39" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="12" id="text2-78">Foxglove Beardtonue</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="15.4" id="text3-77">3' - 4'</text>
+      </g>
+    </symbol>
+    <symbol id="Downy_Wood_Mint">
+      <g id="Downy_Wood_Mint_transform" transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)">
+        <circle cx="9" cy="9" fill="#ffc0cb" r="9" id="circle1-84" />
+        <circle cx="9" cy="9" fill="#ff0000" r="6" id="circle2-68" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="9" id="text2-1">Downy Wood Mint</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="11.8" id="text3-3">1' - 2'</text>
+      </g>
+    </symbol>
+    <symbol id="Culver's_Root">
+      <g id="Culver's_Root_transform" transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)">
+        <circle cx="18" cy="18" fill="#90ee90" r="18" id="circle1-4" />
+        <circle cx="18" cy="18" fill="#008000" r="12" id="circle2-6" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="18" id="text2-5">Culver's Root</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="22.6" id="text3-71">4' - 7'</text>
+      </g>
+    </symbol>
+    <symbol id="Butterfly_Weed">
+      <g id="Butterfly_Weed_transform" transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)">
+        <circle cx="18" cy="18" fill="#ffc0cb" r="18" id="circle1-86" />
+        <circle cx="18" cy="18" fill="#ff0000" r="6" id="circle2-7" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="18" id="text2-62">Butterfly Weed</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="22.6" id="text3-4">1' - 2'</text>
+      </g>
+    </symbol>
+    <symbol id="Blue_false_indigo">
+      <g id="Blue_false_indigo_transform" transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)">
+        <circle cx="18" cy="18" fill="#90ee90" r="18" id="circle1-83" />
+        <circle cx="18" cy="18" fill="#008000" r="18" id="circle2-96" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="18" id="text2-33">Blue false indigo</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="22.6" id="text3-84">4'</text>
+      </g>
+    </symbol>
+    <symbol id="Biennial_Beeblossem">
+      <g id="Biennial_Beeblossem_transform" transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)">
+        <circle cx="12" cy="12" fill="#ffc0cb" r="12" id="circle1-8" />
+        <circle cx="12" cy="12" fill="#ff0000" r="6" id="circle2-93" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="12" id="text2-0">Biennial Beeblossem</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="15.4" id="text3-2">3' - 6'</text>
+      </g>
+    </symbol>
+    <symbol id="BES">
+      <g id="BES_transform" transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)">
+        <circle cx="12" cy="12" fill="#ffc0cb" r="12" id="circle1-1" />
+        <circle cx="12" cy="12" fill="#ff0000" r="12" id="circle2-2" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="12" id="text2-31">BES</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="15.4" id="text3-7">1' - 2'</text>
+      </g>
+    </symbol>
+    <symbol id="Blue_eyed_Grass">
+      <g id="Blue_eyed_Grass_transform" transform="matrix(25.4,0,0,25.4,-62.718601,951.26735)">
+        <circle cx="4" cy="4" fill="#ffc0cb" r="4" id="circle1-90" />
+        <circle cx="4" cy="4" fill="#ff0000" r="3" id="circle2-4" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="0.8px" stroke="#000000" stroke-width="0.0266667" text-anchor="middle" x="4" y="4" id="text2-9">Blue eyed Grass</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="0.8px" stroke="#000000" stroke-width="0.0266667" text-anchor="middle" x="4" y="5.8000002" id="text3-6">6' - 10&quot;'</text>
+      </g>
+    </symbol>
+    <symbol id="Bee_Balm">
+      <g id="Bee_Balm_transform" transform="matrix(25.4,0,0,25.4,-418.3186,595.66735)">
+        <circle cx="18" cy="18" fill="#ffc0cb" r="18" id="circle1-9" />
+        <circle cx="18" cy="18" fill="#ff0000" r="12" id="circle2-94" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="18" id="text2-6">Bee Balm</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="3.6px" stroke="#000000" stroke-width="0.12" text-anchor="middle" x="18" y="22.6" id="text3-8">2' - 4'</text>
+      </g>
+    </symbol>
+    <symbol id="Aromatic_Aster">
+      <g id="Aromatic_Aster_transform" transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)">
+        <circle cx="12" cy="12" fill="#ffc0cb" r="12" id="circle1-0" />
+        <circle cx="12" cy="12" fill="#ff0000" r="6" id="circle2-3" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="12" id="text2-7">Aromatic Aster</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="15.4" id="text3-9">1' - 2'</text>
+      </g>
+    </symbol>
+    <symbol id="Anise_Hyssop">
+      <g id="Anise_Hyssop_transform" transform="matrix(25.4,0,0,25.4,-189.7186,824.26735)">
+        <circle cx="9" cy="9" fill="#ffc0cb" r="9" id="circle1-3" />
+        <circle cx="9" cy="9" fill="#ff0000" r="6" id="circle2-9" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="9" id="text2-3">Anise Hyssop</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="1.8px" stroke="#000000" stroke-width="0.06" text-anchor="middle" x="9" y="11.8" id="text3-0">1' - 2'</text>
+      </g>
+    </symbol>
+    <symbol id="3_Lobed_Coneflwer">
+      <g id="3_Lobed_Coneflwer_transform" transform="matrix(25.4,0,0,25.4,-265.9186,748.06735)">
+        <circle cx="12" cy="12" fill="#ffc0cb" r="12" id="circle1" />
+        <circle cx="12" cy="12" fill="#ff0000" r="12" id="circle2" />
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="12" id="text2">3 Lobed Coneflwer</text>
+        <text alignment-baseline="middle" fill="#ffffff" font-family="Arial" font-size="2.4px" stroke="#000000" stroke-width="0.08" text-anchor="middle" x="12" y="15.4" id="text3">2' - 5'</text>
+      </g>
+    </symbol>
+  </defs>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" />
+</svg>
