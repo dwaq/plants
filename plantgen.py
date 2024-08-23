@@ -54,7 +54,7 @@ def genPlant(dwg, name, minW, maxW, heightRange, height):
     dwg.add(group)
 
     # Save the SVG file
-    dwg.save()
+    dwg.save(pretty=True)
 
 # Create an SVG drawing
 dwg = svgwrite.Drawing('plants/Aromatic Aster.svg', size=(str(24)+'in', str(24)+'in'))
