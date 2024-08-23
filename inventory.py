@@ -45,7 +45,6 @@ with open('Inventory.csv', 'r') as file:
 
         # pretty print height
         height = row[2].split("-")
-        print(height)
         # range
         try:
             height = height[0]+"' - "+height[1]+"'"
