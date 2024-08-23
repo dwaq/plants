@@ -39,8 +39,15 @@ with open('Inventory.csv', 'r') as file:
 
         heightRange = row[3]
 
-
-        height = row[4]
+        # pretty print height
+        height = row[2].split("-")
+        print(height)
+        # range
+        try:
+            height = height[0]+"' - "+height[1]+"'"
+        # single number
+        except:
+            height = height[0]+"'"
 
         print((name, minW, maxW, heightRange, height))
         print()
