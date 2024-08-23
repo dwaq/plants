@@ -6,8 +6,9 @@ import svgwrite
 # heightRange = text (low, med, high) for height color coding
 # height = text description of plant height (feet)
 def genPlant(name, minW, maxW, heightRange, height):
-    # define a font size (may be calculated later)
-    fontsize = 3
+    # define a font size and stroke width based on max size
+    fontsize = maxW/7
+    strokewidth = fontsize/30
 
     # calculate radius here since they are needed
     maxWr = int(maxW/2)
@@ -43,10 +44,10 @@ def genPlant(name, minW, maxW, heightRange, height):
     group.add(dwg.circle(center=(maxWr, maxWr), r=minWr, fill=minC))
 
     # Plant name
-    group.add(dwg.text(name, insert=(maxWr, maxWr), font_size=fontsize, font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width='0.1'))
+    group.add(dwg.text(name, insert=(maxWr, maxWr), font_size=fontsize, font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width=strokewidth))
 
     # plant height
-    group.add(dwg.text(height, insert=(maxWr, maxWr+fontsize+1), font_size=fontsize, font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width='0.1'))
+    group.add(dwg.text(height, insert=(maxWr, maxWr+fontsize+1), font_size=fontsize, font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width=strokewidth))
 
     # Add the group to the drawing
     dwg.add(group)
