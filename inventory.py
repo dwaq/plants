@@ -1,5 +1,9 @@
 import csv
+import svgwrite
 import plantgen
+
+# Create an SVG symbols library
+dwg = svgwrite.Drawing('Plants.svg', size=('1000in', '1000in'))
 
 # Open the CSV file
 with open('Inventory.csv', 'r') as file:
@@ -51,7 +55,7 @@ with open('Inventory.csv', 'r') as file:
 
         print((name, minW, maxW, heightRange, height))
         print()
-        plantgen.genPlant(name, minW, maxW, heightRange, height)
+        plantgen.genPlant(dwg, name, minW, maxW, heightRange, height)
 
         # exit after 1st row (testing)
         # if r==1:
