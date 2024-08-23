@@ -1,25 +1,40 @@
 import svgwrite
 
-# Create an SVG drawing
-dwg = svgwrite.Drawing('Aromatic Aster.svg', size=('24in', '24in'))
+# name = name of plant
+# minW = minimum width (diameter) of plant in inches
+# minW = maximum width (diameter) of plant in inches
+# height = text description of plant height (feet)
+def genPlant(name, minW, maxW, height):
+    # define a font size (may be calculated later)
+    fontsize = 3
 
-# Set the viewBox attribute
-dwg.viewbox(minx=0, miny=0, width=24, height=24)
+    # calculate radius here since they are needed
+    maxWr = int(maxW/2)
+    minWr = int(minW/2)
 
-# Add a title to the SVG
-dwg.set_desc(title='Aromatic Aster')
+    # Create an SVG drawing
+    dwg = svgwrite.Drawing(name+'.svg', size=(str(maxW)+'in', str(maxW)+'in'))
 
-# maximum size
-dwg.add(dwg.circle(center=(12, 12), r=12, fill='lightgreen'))
+    # Set the viewBox attribute
+    dwg.viewbox(minx=0, miny=0, width=maxW, height=maxW)
 
-# minimum size
-dwg.add(dwg.circle(center=(12, 12), r=6, fill='green'))
+    # Add a title to the SVG
+    dwg.set_desc(title=name)
 
-# Plant name
-dwg.add(dwg.text('Aromatic Aster', insert=(12, 12), font_size='3', font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width='0.1'))
+    # maximum size
+    dwg.add(dwg.circle(center=(maxWr, maxWr), r=maxWr, fill='lightgreen'))
 
-# plant height
-dwg.add(dwg.text('1\' - 2\'', insert=(12, 16), font_size='3', font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width='0.1'))
+    # minimum size
+    dwg.add(dwg.circle(center=(maxWr, maxWr), r=minWr, fill='green'))
 
-# Save the SVG file
-dwg.save()
+    # Plant name
+    dwg.add(dwg.text(name, insert=(maxWr, maxWr), font_size=fontsize, font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width='0.1'))
+
+    # plant height
+    dwg.add(dwg.text(height, insert=(maxWr, maxWr+fontsize+1), font_size=fontsize, font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width='0.1'))
+
+    # Save the SVG file
+    dwg.save()
+
+
+genPlant("Aromatic Aster", 12, 24, "1\' - 2\'")
