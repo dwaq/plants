@@ -3,14 +3,26 @@ import svgwrite
 # name = name of plant
 # minW = minimum width (diameter) of plant in inches
 # minW = maximum width (diameter) of plant in inches
+# heightRange = text (low, med, high) for height color coding
 # height = text description of plant height (feet)
-def genPlant(name, minW, maxW, height):
+def genPlant(name, minW, maxW, heightRange, height):
     # define a font size (may be calculated later)
     fontsize = 3
 
     # calculate radius here since they are needed
     maxWr = int(maxW/2)
     minWr = int(minW/2)
+
+    # color code based on height
+    if (heightRange == "low"):
+        maxC = "pink"
+        minC = "red"
+    if (heightRange == "med"):
+        maxC = "lightgreen"
+        minC = "green"
+    if (heightRange == "high"):
+        maxC = "lightblue"
+        minC = "blue"
 
     # Create an SVG drawing
     dwg = svgwrite.Drawing(name+'.svg', size=(str(maxW)+'in', str(maxW)+'in'))
@@ -22,10 +34,10 @@ def genPlant(name, minW, maxW, height):
     dwg.set_desc(title=name)
 
     # maximum size
-    dwg.add(dwg.circle(center=(maxWr, maxWr), r=maxWr, fill='lightgreen'))
+    dwg.add(dwg.circle(center=(maxWr, maxWr), r=maxWr, fill=maxC))
 
     # minimum size
-    dwg.add(dwg.circle(center=(maxWr, maxWr), r=minWr, fill='green'))
+    dwg.add(dwg.circle(center=(maxWr, maxWr), r=minWr, fill=minC))
 
     # Plant name
     dwg.add(dwg.text(name, insert=(maxWr, maxWr), font_size=fontsize, font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width='0.1'))
@@ -37,4 +49,4 @@ def genPlant(name, minW, maxW, height):
     dwg.save()
 
 
-genPlant("Aromatic Aster", 12, 24, "1\' - 2\'")
+genPlant("Aromatic Aster", 12, 24, "low", "1\' - 2\'")
