@@ -15,14 +15,32 @@ with open('Inventory.csv', 'r') as file:
 
         name = row[0]
 
-        width = row[2].split("-")
+        width = row[4]
 
-        minW = int(width[0])*12
-        maxW = int(width[1])*12
+        # already in inches
+        if '"' in width:
+            conversion = 1
+            # remove unit
+            width = width.strip('"')
+        # convert to inches
+        # else:
+            conversion = 12
+
+        # split into min and max
+        width = width.split("-")
+        
+        minW = float(width[0])*conversion
+
+        # if there isn't a max, just keep it the same as min
+        try:
+            maxW = float(width[1])*conversion
+        except:
+            maxW = minW
+
         heightRange = row[3]
+
+
         height = row[4]
-
-
 
         print((name, minW, maxW, heightRange, height))
         print()
