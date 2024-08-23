@@ -26,25 +26,31 @@ def genPlant(dwg, name, minW, maxW, heightRange, height):
         maxC = "lightblue"
         minC = "blue"
 
-    # Add a title to the SVG
-    dwg.set_desc(title=name)
+    # Add the SVG as a symbol
+    symbol = dwg.symbol(id=name.replace(" ", "_"))
+
+    # maximum size
+    symbol.add(dwg.circle(center=(maxWr, maxWr), r=maxWr, fill=maxC))
+
+    # minimum size
+    symbol.add(dwg.circle(center=(maxWr, maxWr), r=minWr, fill=minC))
+
+    # Plant name
+    symbol.add(dwg.text(name, insert=(maxWr, maxWr), font_size=fontsize, font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width=strokewidth))
+
+    # plant height
+    symbol.add(dwg.text(height, insert=(maxWr, maxWr+fontsize+1), font_size=fontsize, font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width=strokewidth))
+
+    # Add the symbol to the defs section of the drawing
+    dwg.defs.add(symbol)
 
     # Create a group
     group = dwg.g(id=name.replace(" ", "_"))
 
-    # maximum size
-    group.add(dwg.circle(center=(maxWr, maxWr), r=maxWr, fill=maxC))
+    # Use the symbol within the group
+    group.add(dwg.use(symbol))
 
-    # minimum size
-    group.add(dwg.circle(center=(maxWr, maxWr), r=minWr, fill=minC))
-
-    # Plant name
-    group.add(dwg.text(name, insert=(maxWr, maxWr), font_size=fontsize, font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width=strokewidth))
-
-    # plant height
-    group.add(dwg.text(height, insert=(maxWr, maxWr+fontsize+1), font_size=fontsize, font_family='Arial', text_anchor='middle', alignment_baseline='middle', fill='white', stroke='black', stroke_width=strokewidth))
-
-    # Add the group to the drawing
+    # Add the symbol to the drawing
     dwg.add(group)
 
     # Save the SVG file
