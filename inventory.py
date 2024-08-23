@@ -23,6 +23,9 @@ with open('Inventory.csv', 'r') as file:
         height = row[4]
 
 
+
+        print((name, minW, maxW, heightRange, height))
+        print()
         plantgen.genPlant(name, minW, maxW, heightRange, height)
 
         # exit after 1st row (testing)
