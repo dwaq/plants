@@ -1,5 +1,8 @@
 import svgwrite
 
+# convert from pixels to inches
+px2in = 96
+
 # dwg = SVG symbols library
 # name = name of plant
 # minW = minimum width (diameter) of plant in inches
@@ -8,12 +11,12 @@ import svgwrite
 # height = text description of plant height (feet)
 def genPlant(dwg, name, minW, maxW, heightRange, height):
     # define a font size and stroke width based on max size
-    fontsize = maxW/10
+    fontsize = (maxW/10)*px2in
     strokewidth = fontsize/30
 
     # calculate radius here since they are needed
-    maxWr = int(maxW/2)
-    minWr = int(minW/2)
+    maxWr = int(maxW/2)*px2in
+    minWr = int(minW/2)*px2in
 
     # color code based on height
     if (heightRange == "low"):
